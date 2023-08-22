@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://https://www.linkedin.com/in/yekham/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yekta-hamit-pektaş-82a853256" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yekham/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yekham" height="30" width="40" /></a>
 <a href="https://kaggle.com/yekham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yekham" height="30" width="40" /></a>
 </p>
 
