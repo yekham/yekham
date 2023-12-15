@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yekta Hamit Pektaş</h1>
-<h3 align="center">I am interested in backend and data science.</h3>
+<h3 align="center">I'm interest in Machine Learning, Data Science </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
